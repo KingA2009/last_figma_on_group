@@ -188,7 +188,111 @@ nav {
     margin-top: -14px;
 }
 
-.main1_card_icons{
+.main1_card_icons {
     margin-top: -15px;
 }
 
+.main2_img {
+    width: 100%;
+}
+
+.main2_text1 {
+    color: #363853;
+    font-size: 36px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    display: flex;
+    width: 384px;
+    flex-shrink: 0;
+    padding-top: 150px;
+}
+
+.main2_img_and_text {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.main2_text2 {
+    color: #363853;
+    font-size: 20px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+    width: 449px;
+    height: 103px;
+    flex-shrink: 0;
+}
+
+.img1_text1 {
+    padding-top: 10px;
+    color: #363853;
+    font-size: 24px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+
+.main2_btn {
+    color: #FFF;
+    font-size: 20px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 30px 30px 1px 30px;
+    background: var(--secondary, #FF7A50);
+    box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+    width: 176px;
+    height: 58px;
+    flex-shrink: 0;
+    border: none;
+    margin-top: 30px;
+}
+
+.main3_text1 {
+    display: flex;
+    width: 454px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #363853;
+    font-size: 36px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    text-transform: capitalize;
+    padding-top: 290px;
+    padding-bottom: 20px;
+}
+
+.main3_text2 {
+    display: flex;
+    width: 538px;
+    height: 94px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #363853;
+    font-size: 20px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.main3_imgs{
+    display: flex;
+    gap: 35px;
+}
+
+.main3_img{
+    margin-top: 180px;
+    margin-bottom: 100px;
+}
